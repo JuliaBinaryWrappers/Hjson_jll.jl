@@ -1,0 +1,151 @@
+[[Hjson]]
+arch = "aarch64"
+git-tree-sha1 = "9db0b898347216ca11ce4f129691065c80aedd99"
+os = "macos"
+
+    [[Hjson.download]]
+    sha256 = "3f7467da354060134a4a1b0187ac4c7a75a4f317102f75078e9d5eaa01ac28ff"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.aarch64-apple-darwin.tar.gz"
+[[Hjson]]
+arch = "aarch64"
+git-tree-sha1 = "35bfd589ad0ec4f31a4154c7dbb64225da308f9e"
+libc = "glibc"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "5fa0f14a683921682575cc1a6ae311565d8e3bd7198c03f403165f7a1ff30190"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.aarch64-linux-gnu.tar.gz"
+[[Hjson]]
+arch = "aarch64"
+git-tree-sha1 = "35bfd589ad0ec4f31a4154c7dbb64225da308f9e"
+libc = "musl"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "5fa0f14a683921682575cc1a6ae311565d8e3bd7198c03f403165f7a1ff30190"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.aarch64-linux-musl.tar.gz"
+[[Hjson]]
+arch = "aarch64"
+git-tree-sha1 = "72d1d742206a98b56ec89c11c1f8b696b96da859"
+os = "freebsd"
+
+    [[Hjson.download]]
+    sha256 = "916edd8350459184e6188d329df7a99908bcb0e88a6472f242669a383eb86704"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.aarch64-unknown-freebsd.tar.gz"
+[[Hjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a4a86dc3ea8e69d9b088f6c9e329a7d3e840eb51"
+libc = "glibc"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "e03b018bfa1d58e33d2782faa3e5be0127d0930044ad3bee757c35a775491c44"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.armv6l-linux-gnueabihf.tar.gz"
+[[Hjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a4a86dc3ea8e69d9b088f6c9e329a7d3e840eb51"
+libc = "musl"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "e03b018bfa1d58e33d2782faa3e5be0127d0930044ad3bee757c35a775491c44"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.armv6l-linux-musleabihf.tar.gz"
+[[Hjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c9ae5bf9261e55f59d66d95cf0395593627f4229"
+libc = "glibc"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "e74fd6a0acff8829e7a0b3aeb355f50bd0bb9e8da867f6a4567a37ee8ee047d9"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.armv7l-linux-gnueabihf.tar.gz"
+[[Hjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c9ae5bf9261e55f59d66d95cf0395593627f4229"
+libc = "musl"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "e74fd6a0acff8829e7a0b3aeb355f50bd0bb9e8da867f6a4567a37ee8ee047d9"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.armv7l-linux-musleabihf.tar.gz"
+[[Hjson]]
+arch = "i686"
+git-tree-sha1 = "1cf645163fad320a930c49f9d77190f18534597d"
+libc = "glibc"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "5d132a3205cfd198a9aea3c6c359142233f07ca1ae0b03b54a27de23bc141b90"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.i686-linux-gnu.tar.gz"
+[[Hjson]]
+arch = "i686"
+git-tree-sha1 = "1cf645163fad320a930c49f9d77190f18534597d"
+libc = "musl"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "5d132a3205cfd198a9aea3c6c359142233f07ca1ae0b03b54a27de23bc141b90"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.i686-linux-musl.tar.gz"
+[[Hjson]]
+arch = "i686"
+git-tree-sha1 = "1c240a28f8e7aa84557acb11e338393c45147479"
+os = "windows"
+
+    [[Hjson.download]]
+    sha256 = "24bf4604d8e844fb64092fc84307b27971751f193a96cc1bb2badcf5caf1b1c4"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.i686-w64-mingw32.tar.gz"
+[[Hjson]]
+arch = "powerpc64le"
+git-tree-sha1 = "86ea7e721143aaae8980d78e5134d2ef52159d6c"
+libc = "glibc"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "91f3eb94cfd04656de0cb6f599ba6c9584b97794c14aad5ea8c4af54def874d0"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.powerpc64le-linux-gnu.tar.gz"
+[[Hjson]]
+arch = "x86_64"
+git-tree-sha1 = "0ef169465d6b96313e60e683084eb9957e0fe785"
+os = "macos"
+
+    [[Hjson.download]]
+    sha256 = "56a7aa4381a0ca0ef19bb606f5e9c4870bc99467478a0c6012fc45902997690a"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.x86_64-apple-darwin.tar.gz"
+[[Hjson]]
+arch = "x86_64"
+git-tree-sha1 = "df834d34e8ab76d36e1aaffac6a6a14aa55b7a51"
+libc = "glibc"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "fbbcd32f350851df21c8091a2fbad7de69e323c668f7f3260bbc616d6740cbd8"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.x86_64-linux-gnu.tar.gz"
+[[Hjson]]
+arch = "x86_64"
+git-tree-sha1 = "df834d34e8ab76d36e1aaffac6a6a14aa55b7a51"
+libc = "musl"
+os = "linux"
+
+    [[Hjson.download]]
+    sha256 = "fbbcd32f350851df21c8091a2fbad7de69e323c668f7f3260bbc616d6740cbd8"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.x86_64-linux-musl.tar.gz"
+[[Hjson]]
+arch = "x86_64"
+git-tree-sha1 = "1cc26ab482e94c5ed6c68fc15e7b186f7cedc9e5"
+os = "freebsd"
+
+    [[Hjson.download]]
+    sha256 = "5b8640ef5477d3f6385601410a13750a394158237f5e4df841b7da98136c09d8"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.x86_64-unknown-freebsd.tar.gz"
+[[Hjson]]
+arch = "x86_64"
+git-tree-sha1 = "be547d3edb3230dec4ee4f8acdde5fbe5ed46cbe"
+os = "windows"
+
+    [[Hjson.download]]
+    sha256 = "89ef488895bb63fee9c46c9f52e8aa0406d6c897efc5cb3ea35f5b8767775555"
+    url = "https://github.com/JuliaBinaryWrappers/Hjson_jll.jl/releases/download/Hjson-v4.4.0+0/Hjson.v4.4.0.x86_64-w64-mingw32.tar.gz"
